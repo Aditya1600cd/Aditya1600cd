@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Aditya1600cd
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Aditya1600cd/Aditya1600cd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
